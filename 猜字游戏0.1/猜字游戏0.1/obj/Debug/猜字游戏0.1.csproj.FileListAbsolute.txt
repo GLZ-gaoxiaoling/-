@@ -1,0 +1,15 @@
+C:\Users\tiany\source\repos\猜字游戏0.1\猜字游戏0.1\bin\Debug\猜字游戏0.1.exe.config
+C:\Users\tiany\source\repos\猜字游戏0.1\猜字游戏0.1\bin\Debug\猜字游戏0.1.exe
+C:\Users\tiany\source\repos\猜字游戏0.1\猜字游戏0.1\bin\Debug\猜字游戏0.1.pdb
+C:\Users\tiany\source\repos\猜字游戏0.1\猜字游戏0.1\obj\Debug\猜字游戏0._1.Form1.resources
+C:\Users\tiany\source\repos\猜字游戏0.1\猜字游戏0.1\obj\Debug\猜字游戏0._1.Properties.Resources.resources
+C:\Users\tiany\source\repos\猜字游戏0.1\猜字游戏0.1\obj\Debug\猜字游戏0.1.csproj.GenerateResource.cache
+C:\Users\tiany\source\repos\猜字游戏0.1\猜字游戏0.1\obj\Debug\猜字游戏0.1.csproj.CoreCompileInputs.cache
+C:\Users\tiany\source\repos\猜字游戏0.1\猜字游戏0.1\obj\Debug\猜字游戏0.1.exe
+C:\Users\tiany\source\repos\猜字游戏0.1\猜字游戏0.1\obj\Debug\猜字游戏0.1.pdb
+C:\Users\tiany\source\repos\猜字游戏0.1\猜字游戏0.1\obj\Debug\猜字游戏0._1.Form2.resources
+C:\Users\tiany\source\repos\猜字游戏0.1\猜字游戏0.1\bin\Debug\猜字游戏0.1.exe.manifest
+C:\Users\tiany\source\repos\猜字游戏0.1\猜字游戏0.1\bin\Debug\猜字游戏0.1.application
+C:\Users\tiany\source\repos\猜字游戏0.1\猜字游戏0.1\obj\Debug\猜字游戏0.1.exe.manifest
+C:\Users\tiany\source\repos\猜字游戏0.1\猜字游戏0.1\obj\Debug\猜字游戏0.1.application
+C:\Users\tiany\source\repos\猜字游戏0.1\猜字游戏0.1\obj\Debug\猜字游戏0.1.csproj.AssemblyReference.cache
