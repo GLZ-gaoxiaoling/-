@@ -12,3 +12,4 @@ C:\Users\tiany\source\repos\猜字游戏0.1\猜字游戏0.1\obj\x64\Debug\猜字
 C:\Users\tiany\source\repos\猜字游戏0.1\猜字游戏0.1\obj\x64\Debug\猜字游戏0.1.application
 C:\Users\tiany\source\repos\猜字游戏0.1\猜字游戏0.1\obj\x64\Debug\猜字游戏0.1.exe
 C:\Users\tiany\source\repos\猜字游戏0.1\猜字游戏0.1\obj\x64\Debug\猜字游戏0.1.pdb
+C:\Users\tiany\source\repos\猜字游戏0.1\猜字游戏0.1\obj\x64\Debug\猜字游戏0.1.csproj.AssemblyReference.cache

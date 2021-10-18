@@ -97,7 +97,7 @@ namespace 猜字游戏0._1
                     else if (b > fuckyou)
                     {
                         MessageBox.Show("这个答案有点大了吧  QWQ");
-                        MessageBox.Show("你还有下面那么多次机会", cishu.ToString());
+                        MessageBox.Show(cishu.ToString(), "你还有下面那么多次机会");
                         cishu--;
                     }
                     else if (b == fuckyou)
