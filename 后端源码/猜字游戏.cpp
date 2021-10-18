@@ -140,6 +140,7 @@ int main()
             cin >> most;
             cout << "请输入一共有几次机会:";
             cin >> chance;
+            cycele = 0;
             frequency = chance;
             while (cycele <= chance && !found)
             {
