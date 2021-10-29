@@ -8,7 +8,7 @@ int main()
     int least, most;                                                                                //存放范围的大小值
     int choose, chance, guess, cycele, frequency;                                                   //存放用户的选择,机会,猜测,循环次数和次数
     int temp, num;                                                                                  //随机数
-    char wow;                                                                                        //存放用户选择
+    char wow, wowo;                                                                                 //存放用户选择,存放用户彩蛋
     bool found = false;                                                                             //存放判断的函数
 
     srand (time(0));                                                                                //创建随机器
@@ -31,6 +31,29 @@ int main()
                 cout << "请输入一个0-30的随机数:";
                 cin >> guess;
                 if (guess == num)   found = true;
+                else if (guess == 7355608)
+                {
+                    cout << "#######################################" << endl;
+                    cout << "\t这是机密是否要查看" << endl;
+                    cout << "是的(Y/y)\t\t不用啦(N/n)" << endl;
+                    cout << "#######################################" << endl;
+                    cin >> wowo;
+                    if (wowo == 'y')
+                    {
+                        cout << "本次答案就是:" << num << endl;
+                        break;
+                    }
+                    else if (wowo == 'Y')
+                    {
+                        cout << "本次答案就是:" << num << endl;
+                        break;
+                    }
+                    else
+                    {
+                        cout << "哦吼你居然不想知道" << endl << "那继续游玩吧" << endl;
+                        break;
+                    }
+                }
                 else if (guess > num)   cout << "答案太大了哟!!" << endl;
                 else    cout << "答案太小了哟!!" << endl;
                 cycele++;
@@ -66,6 +89,29 @@ int main()
                 cout << "请输入一个0-25的随机数:";
                 cin >> guess;
                 if (guess == num)   found = true;
+                else if (guess == 7355608)
+                {
+                    cout << "#######################################" << endl;
+                    cout << "\t这是机密是否要查看" << endl;
+                    cout << "是的(Y/y)\t\t不用啦(N/n)" << endl;
+                    cout << "#######################################" << endl;
+                    cin >> wowo;
+                    if (wowo == 'y')
+                    {
+                        cout << "本次答案就是:" << num << endl;
+                        break;
+                    }
+                    else if (wowo == 'Y')
+                    {
+                        cout << "本次答案就是:" << num << endl;
+                        break;
+                    }
+                    else
+                    {
+                        cout << "哦吼你居然不想知道" << endl << "那继续游玩吧" << endl;
+                        break;
+                    }
+                }
                 else if (guess > num)   cout << "这个答案有点大了欸" << endl;
                 else cout << "这个答案有点小欸" << endl;
                 cycele++;
@@ -102,6 +148,29 @@ int main()
                 cout << "请输入一个0-20的随机数:";
                 cin >> guess;
                 if (guess == num)   found = true;
+                else if (guess == 7355608)
+                {
+                    cout << "#######################################" << endl;
+                    cout << "\t这是机密是否要查看" << endl;
+                    cout << "是的(Y/y)\t\t不用啦(N/n)" << endl;
+                    cout << "#######################################" << endl;
+                    cin >> wowo;
+                    if (wowo == 'y')
+                    {
+                        cout << "本次答案就是:" << num << endl;
+                        break;
+                    }
+                    else if (wowo == 'Y')
+                    {
+                        cout << "本次答案就是:" << num << endl;
+                        break;
+                    }
+                    else
+                    {
+                        cout << "哦吼你居然不想知道" << endl << "那继续游玩吧" << endl;
+                        break;
+                    }
+                }
                 else if (guess > num)   cout << "这个答案有点大了吧  QWQ" << endl;
                 else    cout << "这个答案有点小了吧  QWQ" << endl;
                 cycele++;
@@ -165,6 +234,29 @@ int main()
                     cout << "请输入一个" << least << "-" << most << "的随机数:";
                     cin >> guess;
                     if (guess == num)   found = true;
+                    else if (guess == 7355608)
+                {
+                    cout << "#######################################" << endl;
+                    cout << "\t这是机密是否要查看" << endl;
+                    cout << "是的(Y/y)\t\t不用啦(N/n)" << endl;
+                    cout << "#######################################" << endl;
+                    cin >> wowo;
+                    if (wowo == 'y')
+                    {
+                        cout << "本次答案就是:" << num << endl;
+                        break;
+                    }
+                    else if (wowo == 'Y')
+                    {
+                        cout << "本次答案就是:" << num << endl;
+                        break;
+                    }
+                    else
+                    {
+                        cout << "哦吼你居然不想知道" << endl << "那继续游玩吧" << endl;
+                        break;
+                    }
+                }
                     else if (guess > num)   cout << "这个数有点大了哦!!" << endl;
                     else    cout << "这个数有点小了哦!!" << endl;
                     cycele++;
